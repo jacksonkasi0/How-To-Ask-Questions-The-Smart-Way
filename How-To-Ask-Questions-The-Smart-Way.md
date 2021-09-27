@@ -1,6 +1,6 @@
 ## How To Ask Questions The Smart Way
 
-### Eric Steven Raymond
+### Eric Steven Raymond hi  
 
 [Thyrsus Enterprises](http://www.catb.org/~esr/)
 
